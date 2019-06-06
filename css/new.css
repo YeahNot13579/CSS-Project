@@ -1,0 +1,30 @@
+p{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+a{
+    color: blue;
+}
+/*селекторы по классам*/
+.even_item
+{
+    color: black;
+    text-align: center;
+}
+/*Селектор по id*/
+.divclass
+{
+    border: 1px black solid;
+    padding: 10px;
+
+}
+mark{
+    background: cyan;
+}
+ul{
+    margin-left: 10px;
+}
+ol{
+    margin: 0;
+}

@@ -1,0 +1,22 @@
+
+
+p{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color:blue;
+}
+/*селекторы по классам*/
+.even_item
+{
+    color: green;
+    text-align: center;
+}
+/*Селектор по id*/
+.divclass
+{
+    text-align: center;
+
+}
+mark{
+    background: cyan;
+}
